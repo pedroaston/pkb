@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "7f5d53df6855a325",
+    "type": "split",
+    "children": [
+      {
+        "id": "20554d383ba58f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddd58f4f9d64a27a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4_NOS/0_Raw_Notes/Pasted image 20240710154540.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4663e3e694fc2ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "458e92d0e49e7b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e78a31a8bfc20aa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ce6f6e37118ea39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5ffd61eb923ce41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b7caf9247ce11d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bfbed5d8b390697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d68ade0d39fd26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4_NOS/0_Raw_Notes/Pasted image 20240710154540.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "414909af8b0ace65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4_NOS/0_Raw_Notes/Pasted image 20240710154540.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e1a94ec2bfe2c31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b8de6235af74266",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4_NOS/0_Raw_Notes/Pasted image 20240710154540.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ddd58f4f9d64a27a",
+  "lastOpenFiles": [
+    "4_NOS/0_Raw_Notes/Pasted image 20240710155120.png",
+    "4_NOS/0_Raw_Notes/Pasted image 20240711144946.png",
+    "4_NOS/0_Raw_Notes/Pasted image 20240711153454.png",
+    "4_NOS/0_Raw_Notes/Pasted image 20240710154540.png",
+    "4_NOS/0_Raw_Notes/Pasted image 20240710154540 1.png",
+    "4_NOS/0_Raw_Notes/3_FRINX_Tech_Meeting_Draft.md",
+    "4_NOS/0_Raw_Notes/1_IP_Controller_RFQ_Notes.md",
+    "4_NOS/0_Raw_Notes/2_Clab_RAW_Notes.md",
+    "4_NOS/0_Raw_Notes/4_Nokia_Tech_Meeting_Draft.md",
+    "4_NOS/1_New_IP_Eng_Way_of_Work.md",
+    "4_NOS/0_NOS_Task_Manager.md",
+    "0_Personal_Task_Manager.md",
+    "3_Tech/3_Utilities/1_Docs_As_Code.md",
+    "1_Generic_Notes/Office_Makeover.md",
+    "2_Citizen_Affairs/1_House Acquisition.md",
+    "2_Citizen_Affairs/1_Career/1_Interesting_Companies.md",
+    "3_Tech/1_Networking/1_Programmability/2_Open_Source.md",
+    "3_Tech/1_Networking/1_Programmability/1_Standards.md",
+    "1_Generic_Notes/Pilhas.md",
+    "3_Tech/1_Raw_Notes.md",
+    "3_Tech/2_Programming/2_App_Coding/1_Golang_Journey.md",
+    "3_Tech/2_Programming/1_System_Coding/1_Rust_Journey.md",
+    "3_Tech/3_Utilities",
+    "3_Tech/1_Networking/3_IS_IS/1_Standards.md",
+    "3_Tech/1_Networking/2_BGP/1_Standards.md",
+    "3_Tech/1_Networking/3_IS_IS",
+    "3_Tech/1_Networking/2_BGP",
+    "3_Tech/1_Networking/Unprocessed_Material.md",
+    "3_Tech/1_Networking/1_Programmability",
+    "3_Tech/1_Networking",
+    "4_NOS/1_New_IP_Eng_Way_of_Work/1_Tasks_Lists/1_Tasks_ippal_mdm.md",
+    "2_Citizen_Affairs/2_Sale_of_inhereted_terrains.md",
+    "4_NOS/1_New_IP_Eng_Way_of_Work/Untitled.md",
+    "4_NOS/1_New_IP_Eng_Way_of_Work/1_Tasks_Lists",
+    "1_Threads.md",
+    "4_NOS/0_Raw_Notes",
+    "4_NOS/1_New_IP_Eng_Way_of_Work",
+    "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
+    "4_NOS",
+    "3_Tech/1_IETF"
+  ]
+}

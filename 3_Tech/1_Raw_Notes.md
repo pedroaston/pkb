@@ -1,0 +1,11 @@
+
+- [SRv6 Network Observability (2024, Swisscom)](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-swisscom-01): to be read with more attention in the future.
+- [Telecom Infra Project initiative](https://telecominfraproject.com/oopt/): need to take some time to understand what is being done here, and read the article/documentation published.
+- [Sonic Courses](https://route2open.com/courses/): Can do some with Antão voucher.
+- [Blog - Understand VM pps limitation](https://www.linuxquestions.org/questions/linux-networking-3/understanding-of-network-limitation-when-trying-to-maximize-pps-in-vm-4175614163/): Thing to document with work relevance.
+- [Implement container apps in IOS-XR](https://community.cisco.com/t5/service-providers-knowledge-base/xr-notes-implementing-iperf-container-using-built-in-docker-in/ta-p/4962511): should try this.
+- [Issue with xrdp in Ubuntu 22.04](https://github.com/neutrinolabs/xrdp/discussions/2931): should investigate and solve this.
+- [Blog - gRPC with REST](https://grpc.io/blog/coreos/): relevant to read and try.
+- [Blog - golang JSON templating](https://docs.dynatrace.com/docs/manage/configuration-as-code/monaco/guides/configuration-as-code-advanced-use-case): must read for the MDM dev.
+- [Blog - ECMP on linux](https://blog.fhrnet.eu/2019/03/07/ecmp-on-linux/): relevant for me to understand how to haver dual-homed VMs
+- [Unikernels](https://unikraft.org/): should explore unikernels. First usecase would be to have custom Apps with minimal resources in my homelab.

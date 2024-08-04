@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "17d3b4eafb0ba4bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f65a903577c437db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e19381bd9fa37a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f3a954eb669a53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71968874a8823039",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f2064860dc750284",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "424bd1aecd855515",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "420c920a0e445702",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "28076e6f9aa4256b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9d5dcdb92599fe5b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3605d76727216203",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "4_NOS/1_New_IP_Eng_Ways.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e690938e14d26ae",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "4_NOS/1_New_IP_Eng_Ways.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "611c46b0caf61e71",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "4_NOS/1_New_IP_Eng_Ways.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e19381bd9fa37a2f",
+  "lastOpenFiles": [
+    "3_Tech/1_Raw_Notes.md",
+    "3_Tech/3_Utilities/1_Docs_As_Code.md",
+    "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
+    "2_Citizen_Affairs/1_House Acquisition.md",
+    "0_Personal_Task_Manager.md",
+    "4_NOS/0_NOS_Task_Manager.md",
+    "FRINX_NOTES.md",
+    "Pasted image 20240710155120.png",
+    "3_Tech/2_Programming/1_System_Coding/1_Rust_Journey.md",
+    "3_FRINX_Tech_Meeting_Draft.md",
+    "4_NOS/1_New_IP_Eng_Way_of_Work.md",
+    "1_Generic_Notes/Pilhas.md",
+    "1_Generic_Notes/Cadeira.md",
+    "4_NOS/0_Raw_Notes/1_IP_Controller_RFQ_Notes.md",
+    "4_NOS/0_Raw_Notes/2_Clab_RAW_Notes.md",
+    "1_Generic_Notes/Sick.md",
+    "3_Tech/1_IETF/1_Programmability.md",
+    "Task_Manager.md",
+    "4_NOS/1_IP_Controller_RFQ_Notes.md",
+    "3_Tech/2_Programming/2_App_Coding/1_Golang_Journey.md",
+    "3_Tech/1_IETF/2_BGP.md",
+    "3_Tech/1_IETF/3_IS_IS.md",
+    "3_Tech/1_IETF/Unprocessed_Material.md",
+    "2_Citizen_Affairs/2_Sale_of_inhereted_terrains.md",
+    "3_Networking_Bible/1_Tracked_IETF_Drafts.md",
+    "Welcome.md",
+    "Test 123.md"
+  ]
+}
