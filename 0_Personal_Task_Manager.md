@@ -11,8 +11,7 @@ This is the place where I organize my list of things TO-DO. Journeys are explora
 ## Minor Tasks
 
 1. HomeLab
-	1. Install kentik synthetic agent
-	2. Move the central Sync of the pkb to my linux server
+		1. Install kentik synthetic agent
 2. House Flipping
 	1. Fix towel keeper
 	2. Fix shower
@@ -28,3 +27,4 @@ This is the place where I organize my list of things TO-DO. Journeys are explora
 5. Healthcare
 	1. Check how can I schedule clinical exams with the insurance company
 	2. Schedule an internal medicine meeting
+6. Place the new life is strange on steam wishlist

@@ -12,7 +12,11 @@ git remote add origin <repo-url>
 git push -u origin main
 ```
 
-## setup git in a new linux server
+### Setup git in a new Linux server
 
-TODO
-https://stackoverflow.com/questions/72531064/github-ssh-key-names
+1. Generate SSH Key in the server
+2. Create the authentication and signing key with the SSH public key generated in the previous step
+3. Configure git config file
+4. If SSH key had a custom name, please perform the action mentioned in https://stackoverflow.com/questions/72531064/github-ssh-key-names
+
+NOTE: Please add more detail

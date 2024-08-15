@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
+                "file": "3_Tech/1_Raw_Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ede3e7085663461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Tech/2_Programming/3_Git/1_Command_Sequences.md"
+                "file": "4_NOS/1_New_IP_Eng_Ways.md"
               }
             }
           }
@@ -146,17 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5408101fc5f5eb37",
+  "active": "0ede3e7085663461",
   "lastOpenFiles": [
-    "3_Tech/3_Utilities/1_Docs_As_Code.md",
-    "3_Tech/3_Utilities/2_Syncthing.md",
-    "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
-    "4_NOS/1_New_IP_Eng_Ways.md",
-    "3_Tech/1_Raw_Notes.md",
-    "4_NOS/0_Raw_Notes/2_Clab_RAW_Notes.md",
-    "4_NOS/0_Raw_Notes/1_IP_Controller_RFQ_Notes.md",
     "4_NOS/0_NOS_Task_Manager.md",
+    "4_NOS/1_New_IP_Eng_Ways.md",
+    "3_Tech/2_Programming/2_App_Coding/1_Golang_Journey.md",
+    "3_Tech/1_Networking/0_Unprocessed_Material.md",
+    "3_Tech/1_Networking/1_Standard_Bodies.md",
+    "3_Tech/1_Raw_Notes.md",
+    "3_Tech/3_Utilities/2_Syncthing.md",
+    "3_Tech/3_Utilities/1_Docs_As_Code.md",
+    "3_Tech/2_Programming/1_System_Coding/1_Rust_Journey.md",
+    "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
+    "3_Tech/1_Networking/3_IS_IS/1_Standards.md",
+    "3_Tech/1_Networking/2_BGP/1_Standards.md",
+    "3_Tech/1_Networking/1_Programmability/2_Open_Source.md",
+    "3_Tech/1_Networking/1_Programmability/1_Standards.md",
+    "4_NOS/0_Raw_Notes/2_Clab_RAW_Notes.md",
     "0_Personal_Task_Manager.md",
+    "4_NOS/0_Raw_Notes/1_IP_Controller_RFQ_Notes.md",
     "0_Personal_Task_Manager.sync-conflict-20240803-113246-GFUMZ3F.md",
     "2_Citizen_Affairs/1_House Acquisition.md",
     "FRINX_NOTES.md",
@@ -177,14 +198,6 @@
     "3_Tech/3_Utilities/~syncthing~1_Docs_As_Code.md.tmp",
     "3_Tech/~syncthing~1_Raw_Notes.md.tmp",
     "~syncthing~Pasted image 20240710154540.png.tmp",
-    "4_NOS/0_Raw_Notes/~syncthing~2_Nokia_Tech_Meeting_Draft.md.tmp",
-    "3_Tech/1_Networking/3_IS_IS/1_Standards.md",
-    "3_Tech/1_Networking/1_Programmability/2_Open_Source.md",
-    "3_Tech/1_Networking/1_Programmability/1_Standards.md",
-    "3_Tech/1_Networking/2_BGP/1_Standards.md",
-    "3_Tech/1_Networking/Unprocessed_Material.md",
-    "4_NOS/1_New_IP_Eng_Way_of_Work/1_Tasks_Lists/1_Tasks_ippal_mdm.md",
-    "4_NOS/1_New_IP_Eng_Way_of_Work/Untitled.md",
-    "1_Threads.md"
+    "4_NOS/0_Raw_Notes/~syncthing~2_Nokia_Tech_Meeting_Draft.md.tmp"
   ]
 }

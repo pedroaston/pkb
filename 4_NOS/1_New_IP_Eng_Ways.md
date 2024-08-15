@@ -12,10 +12,10 @@ Build incrementally an ecosystem capable of testing a digital twin of our networ
 		- Audit capabilities with gNMI Get (tested)
 		- Expose capabilities vendor agnostically (todo)
 	- Tasks:
-		1. Implement normalizing layer
-		4. Config emulated lab from a ippal-mdm stateless function which consumes 2 files: creds and normalized cfgs
-	- Issues/Limitations:
-		- Either we use OC models in routers or vendor native. Mixed states do not work.
+		1. Make clabprovision execute in parallel and test it.
+		2. Add the MPLS config templates to this scenario
+		3. Create a small CI/CD pipeline
+		4. Build a network topology in ArangoDB. This DB was chosen before Neo4j because it allows free production use. For the paid version Neo4j is the best option for a graph only usecase. 
 - [ippal-infra-templates](https://github.com/nosportugal/ippal-infra-templates)
 	- Goal: push our documentation to git, in order to have collaborative edition and versioning.
 	- Features:

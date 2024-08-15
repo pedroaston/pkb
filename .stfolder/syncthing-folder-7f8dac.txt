@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: wadn5-xpqlg
+created: 2024-08-04T14:10:29Z
