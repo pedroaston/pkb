@@ -11,28 +11,26 @@ Build incrementally an ecosystem capable of testing a digital twin of our networ
 		- Provision configs with gNMI Set (partially implemented)
 		- Audit capabilities with gNMI Get (tested)
 		- Expose capabilities vendor agnostically (todo)
+	- Issues:
+		- unified model keychain on 7.11.2
 	- Tasks:
-		1. Make clabprovision execute in parallel and test it.
+		1. Generate the mpls adaptor. The ldp part is done but i need to think how to generate the others, since they have conflicts
 		2. Add the MPLS config templates to this scenario
-		3. Create a small CI/CD pipeline
-		4. Build a network topology in ArangoDB. This DB was chosen before Neo4j because it allows free production use. For the paid version Neo4j is the best option for a graph only usecase. 
+		3. Add some of the validations present in the ISIS tests, that can be achieved via gNMI get and the translation and tests may implement a normalization layer like the provision
+		4. Create a small CI/CD pipeline
+		5. Build a network topology in ArangoDB. This DB was chosen before Neo4j because it allows free production use. For the paid version Neo4j is the best option for a graph only use case. 
 - [ippal-infra-templates](https://github.com/nosportugal/ippal-infra-templates)
 	- Goal: push our documentation to git, in order to have collaborative edition and versioning.
-	- Features:
-		- Markdown files for documenting the protocols used in our infrastructure and our architecture decisions (partially implemented)
-		- Explore ways to generate diagrams in code so we can have versioned diagrams (todo)
-		- Static web page generated from our documentation (todo)
+	- Issues:
+		- SR Linux configuration documentation does not match the device configuration for the same version. Because of this the IS-IS template was aborted.
+		- SR Linux and SROS have different configuration templates
 	- Tasks:
 		1. Push all ISIS info from asr9k LLD to the repo (todo)
 		2. Make corrections to SROS one, like adding the net parameter (waiting for new license)
-	- Issues/Limitations:
-		- SR Linux configuration documentation does not match the device configuration for the same version. Because of this the IS-IS template was aborted.
-		- SR Linux and SROS have different configuration templates
 - [ippal-emulated-labs](https://github.com/nosportugal/ippal-emulated-lab)
 	- Goal: have a series of lab environments statically coded that can be quickly turned on and used by our teammates.
-	- Features:
-		- Use ippal-mdm to make the scenarios' base configurations
-		- Configure using our templates at ippal-infra-templates
+	- Issues:
+		- Currently xrd (control) does not support lacp. It can be configured but it does not work operationally
 	- Tasks:
 		1. Push on the other 2 projects first
 		2. Make container and vm lab with a baseline ISIS scenario

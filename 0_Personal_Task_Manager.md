@@ -7,6 +7,7 @@ This is the place where I organize my list of things TO-DO. Journeys are explora
 
 ## Epics
 - [[1_House Acquisition]]
+- [[3_Personal_Finances]]
 
 ## Minor Tasks
 
