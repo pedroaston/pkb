@@ -1,4 +1,13 @@
 
+## App
+
+Apps that do not work:
+- Maybe: beautiful but do no features
+
+Apps to explore:
+- Gnucash
+- Homebank
+- Ledger
 
 # Journey
 

@@ -10,3 +10,6 @@
 	- Page: [[1_Phone]]
 - Mobile Apps:
 	- Description: Apps to be used in mobile
+- Linux Destop:
+	- Description: death to windowns
+	- Page: [[2_Linux_Desktop]]

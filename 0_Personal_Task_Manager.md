@@ -12,7 +12,7 @@ This is the place where I organize my list of things TO-DO. Journeys are explora
 ## Minor Tasks
 
 1. HomeLab
-		1. Install kentik synthetic agent
+	1. Create keypass2Android, and add only the relevant apps (maybe finance)
 2. House Flipping
 	1. Fix towel keeper
 	2. Fix shower

@@ -5,6 +5,10 @@
 2. Push the webserver code developed to expose web-apps in NOS to there
 3. Create a personal website that allows PT people to understand the constitution and all legal code
 
+## Details
+
+- Awkward Go get Permission denied: https://github.com/golang/go/issues/52942
+
 ## References
 
 - [Effective Go](https://go.dev/doc/effective_go)

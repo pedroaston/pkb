@@ -141,8 +141,10 @@
   },
   "active": "e19381bd9fa37a2f",
   "lastOpenFiles": [
-    "3_Tech/1_Raw_Notes.md",
+    "3_Tech/1_Networking/0_Unprocessed_Material.md",
+    "2_Citizen_Affairs/3_Personal_Finances.md",
     "4_NOS/1_New_IP_Eng_Ways.md",
+    "3_Tech/1_Raw_Notes.md",
     "3_Tech/3_Utilities/1_Docs_As_Code.md",
     "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
     "2_Citizen_Affairs/1_House Acquisition.md",
@@ -165,8 +167,6 @@
     "3_Tech/1_IETF/2_BGP.md",
     "3_Tech/1_IETF/3_IS_IS.md",
     "3_Tech/1_IETF/Unprocessed_Material.md",
-    "2_Citizen_Affairs/2_Sale_of_inhereted_terrains.md",
-    "3_Networking_Bible/1_Tracked_IETF_Drafts.md",
-    "Welcome.md"
+    "2_Citizen_Affairs/2_Sale_of_inhereted_terrains.md"
   ]
 }

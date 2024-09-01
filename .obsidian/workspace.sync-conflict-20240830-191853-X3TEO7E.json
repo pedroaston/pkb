@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5b3dcf515b17b111",
+        "id": "1f495161b5e176f3",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8c80b046fdeb48",
+            "id": "b9e3079a17dfa351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Tech/1_Networking/0_Unprocessed_Material.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87cd7badefc52f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Tech/1_Networking/4_SD_WAN/0_Providers.md",
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Tech/1_Networking/4_SD_WAN/0_Providers.md",
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Tech/1_Networking/4_SD_WAN/0_Providers.md",
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Tech/1_Networking/4_SD_WAN/0_Providers.md"
+                "file": "4_NOS/1_New_IP_Eng_Ways.md"
               }
             }
           }
@@ -159,22 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87cd7badefc52f08",
+  "active": "b9e3079a17dfa351",
   "lastOpenFiles": [
-    "3_Tech/1_Networking/0_Unprocessed_Material.md",
-    "3_Tech/1_Networking/4_SD_WAN/0_Providers.md",
-    "3_Tech/1_Networking/4_SD_WAN",
-    "3_Tech/2_Programming/2_App_Coding/~syncthing~1_Golang_Journey.md.tmp",
-    "4_NOS/~syncthing~1_New_IP_Eng_Ways.md.tmp",
-    "3_Tech/1_Networking/~syncthing~0_Unprocessed_Material.md.tmp",
-    "2_Citizen_Affairs/3_Personal_Finances.md",
+    "3_Tech/2_Programming/2_App_Coding/1_Golang_Journey.md",
     "4_NOS/1_New_IP_Eng_Ways.md",
+    "2_Citizen_Affairs/3_Personal_Finances.md",
     "3_Tech/1_Networking/1_Standard_Bodies.md",
+    "3_Tech/1_Networking/0_Unprocessed_Material.md",
     "3_Tech/4_Privacy/0_Privacy_Journey.md",
     "3_Tech/1_Raw_Notes.md",
     "3_Tech/4_Privacy/2_Linux_Desktop.md",
     "0_Personal_Task_Manager.md",
-    "3_Tech/2_Programming/2_App_Coding/1_Golang_Journey.md",
     "4_NOS/0_NOS_Task_Manager.md",
     "1_Generic_Notes/Pilhas.md",
     "3_Tech/4_Privacy/1_Phone.md",
@@ -192,12 +174,17 @@
     "0_Personal_Task_Manager.sync-conflict-20240803-113246-GFUMZ3F.md",
     "2_Citizen_Affairs/1_House Acquisition.md",
     "FRINX_NOTES.md",
+    "0_Personal_Task_Manager.sync-conflict-20240731-092415-ZMS426K.md",
     "~syncthing~0_Personal_Task_Manager.sync-conflict-20240731-092415-ZMS426K.md.tmp",
     "2_Citizen_Affairs/~syncthing~1_House Acquisition.md.tmp",
     "4_NOS/~syncthing~0_NOS_Task_Manager.md.tmp",
+    "4_NOS/~syncthing~1_New_IP_Eng_Ways.md.tmp",
     "Pasted image 20240710155120.png",
     "~syncthing~0_Personal_Task_Manager.sync-conflict-20240719-192747-X3TEO7E.md.tmp",
     "Pasted image 20240710154540.png",
-    "~syncthing~3_FRINX_Tech_Meeting_Draft.md.tmp"
+    "~syncthing~3_FRINX_Tech_Meeting_Draft.md.tmp",
+    "3_Tech/3_Utilities/~syncthing~1_Docs_As_Code.md.tmp",
+    "3_Tech/~syncthing~1_Raw_Notes.md.tmp",
+    "~syncthing~Pasted image 20240710154540.png.tmp"
   ]
 }
