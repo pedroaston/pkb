@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "944f47f6bb3c3f37",
+        "id": "1f495161b5e176f3",
         "type": "tabs",
         "children": [
           {
-            "id": "336a3da2f1143c1c",
+            "id": "b9e3079a17dfa351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_Personal_Task_Manager.md",
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Personal_Task_Manager.md",
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_Personal_Task_Manager.md",
+                "file": "4_NOS/1_New_IP_Eng_Ways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Personal_Task_Manager.md"
+                "file": "4_NOS/1_New_IP_Eng_Ways.md"
               }
             }
           }
@@ -146,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "336a3da2f1143c1c",
+  "active": "b9e3079a17dfa351",
   "lastOpenFiles": [
-    "4_NOS/0_NOS_Task_Manager.md",
-    "Untitled.md",
+    "3_Tech/2_Programming/2_App_Coding/1_Golang_Journey.md",
     "4_NOS/1_New_IP_Eng_Ways.md",
-    "0_Personal_Task_Manager.md",
-    "3_Tech/0_Tech.md",
-    "3_Tech/4_Privacy_Security/0_Privacy_Security.md",
-    "3_Tech/3_Tech_Utilities/0_Tech_Utilities.md",
-    "3_Tech/2_Programming/0_Programmming.md",
-    "3_Tech/2_Programming/2_Git/0_Git.md",
-    "3_Tech/2_Programming/1_Languages/0_Languages.md",
-    "3_Tech/2_Programming/1_Languages/1_Golang_Journey.md",
-    "3_Tech/2_Programming/1_Languages/2_Rust_Journey.md",
-    "3_Tech/1_Networking/0_Networking.md",
-    "3_Tech/1_Networking/4_SD_WAN/0_SD_WAN.md",
-    "3_Tech/1_Networking/2_BGP/0_BGP.md",
-    "3_Tech/1_Networking/3_IS_IS/0_IS_IS.md",
-    "3_Tech/1_Networking/1_Programmability/0_Programability.md",
-    "2_Citizen_Affairs/0_Citizen_Affairs.md",
-    "2_Citizen_Affairs/1_Career/0_Career.md",
-    "3_Tech/1_Networking/4_SD_WAN/1_Providers.md",
-    "Untitled",
-    "3_Tech/1_Networking/2_Unprocessed_Material.md",
+    "2_Citizen_Affairs/3_Personal_Finances.md",
     "3_Tech/1_Networking/1_Standard_Bodies.md",
-    "2_Citizen_Affairs/1_House Acquisition.md",
-    "2_Citizen_Affairs/1_Career/1_Interesting_Companies.md",
-    "2_Citizen_Affairs/2_Sale_of_inhereted_terrains.md",
+    "3_Tech/1_Networking/0_Unprocessed_Material.md",
+    "3_Tech/4_Privacy/0_Privacy_Journey.md",
+    "3_Tech/1_Raw_Notes.md",
+    "3_Tech/4_Privacy/2_Linux_Desktop.md",
+    "0_Personal_Task_Manager.md",
+    "4_NOS/0_NOS_Task_Manager.md",
+    "1_Generic_Notes/Pilhas.md",
+    "3_Tech/4_Privacy/1_Phone.md",
+    "3_Tech/4_Privacy",
+    "3_Tech/3_Utilities/2_Syncthing.md",
+    "3_Tech/3_Utilities/1_Docs_As_Code.md",
+    "3_Tech/2_Programming/1_System_Coding/1_Rust_Journey.md",
+    "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
+    "3_Tech/1_Networking/3_IS_IS/1_Standards.md",
+    "3_Tech/1_Networking/2_BGP/1_Standards.md",
+    "3_Tech/1_Networking/1_Programmability/2_Open_Source.md",
+    "3_Tech/1_Networking/1_Programmability/1_Standards.md",
     "4_NOS/0_Raw_Notes/2_Clab_RAW_Notes.md",
-    "3_Browser",
-    "3_Tech/1_Networking/4_SD_WAN",
-    "3_Tech/2_Programming/2_App_Coding/~syncthing~1_Golang_Journey.md.tmp",
-    "4_NOS/~syncthing~1_New_IP_Eng_Ways.md.tmp",
-    "3_Tech/1_Networking/~syncthing~0_Unprocessed_Material.md.tmp",
-    "3_Tech/4_Privacy_Security",
+    "4_NOS/0_Raw_Notes/1_IP_Controller_RFQ_Notes.md",
+    "0_Personal_Task_Manager.sync-conflict-20240803-113246-GFUMZ3F.md",
+    "2_Citizen_Affairs/1_House Acquisition.md",
+    "FRINX_NOTES.md",
+    "0_Personal_Task_Manager.sync-conflict-20240731-092415-ZMS426K.md",
     "~syncthing~0_Personal_Task_Manager.sync-conflict-20240731-092415-ZMS426K.md.tmp",
     "2_Citizen_Affairs/~syncthing~1_House Acquisition.md.tmp",
     "4_NOS/~syncthing~0_NOS_Task_Manager.md.tmp",
+    "4_NOS/~syncthing~1_New_IP_Eng_Ways.md.tmp",
     "Pasted image 20240710155120.png",
-    "Pasted image 20240710154540.png"
+    "~syncthing~0_Personal_Task_Manager.sync-conflict-20240719-192747-X3TEO7E.md.tmp",
+    "Pasted image 20240710154540.png",
+    "~syncthing~3_FRINX_Tech_Meeting_Draft.md.tmp",
+    "3_Tech/3_Utilities/~syncthing~1_Docs_As_Code.md.tmp",
+    "3_Tech/~syncthing~1_Raw_Notes.md.tmp",
+    "~syncthing~Pasted image 20240710154540.png.tmp"
   ]
 }

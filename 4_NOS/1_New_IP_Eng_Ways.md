@@ -1,11 +1,6 @@
-
 ## Objective
 
 Build incrementally an ecosystem capable of testing a digital twin of our network. Both the routing components and the networking systems.
-
-## Next Day Goals
-
-- IPPAL-MDM Task 1 and IPPAL-EMULATED task 1
 
 ## Sub-Projects
 
@@ -18,9 +13,11 @@ Build incrementally an ecosystem capable of testing a digital twin of our networ
 		- unified model keychain on 7.11.2
 		- ygot has a limitation regarding repeated namespaces ([issue](https://github.com/openconfig/ygot/issues/834))
 	- Tasks:
-		1. Create the normalized rpcs to be used for infra provision and other in unify/rpc
-		2. Understand where the mdm/controller's role is in validating oper/state in ippal-emulated-labs
-		3. We can have unify to marshall struct into json and yaml by having both annotations. Check [here](https://stackoverflow.com/questions/19885162/xml-and-json-tags-for-a-golang-struct) for proper form.
+		1. Switch from list to map in json normalized (maybe after full isis state stuff)
+		2. Understand how to divide state and config
+		3. Add topology validation to IGPSegment validation (sh isis topology)
+		4. After provisoning_infra action add a wait for igp/mpls sync finished
+		5. We can have unify to marshall struct into json and yaml by having both annotations. Check [here](https://stackoverflow.com/questions/19885162/xml-and-json-tags-for-a-golang-struct) for proper form.
 - [ippal-infra-templates](https://github.com/nosportugal/ippal-infra-templates)
 	- Goal: push our documentation to git, in order to have collaborative edition and versioning.
 	- Issues:
@@ -36,8 +33,8 @@ Build incrementally an ecosystem capable of testing a digital twin of our networ
 		- Currently xrd (control) does not support lacp. It can be configured but it does not work operationally
 		- xrd startup config seems to be troubling. I think it erases the base configuration (e.g. ssh)
 	- Tasks:
-		1. Make clab deletecfg and verifylabdeployed actions
-		2. Develop the pipedream
+		1. Make clab deletecfg action for reusability of a VM-based scenario
+		3. Integrate SONIC vm and container router in clab
 - Related Work
 	- OpenConfig:
 		- yang rpcs in gNMI

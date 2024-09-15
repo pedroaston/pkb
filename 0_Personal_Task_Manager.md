@@ -2,7 +2,7 @@
 This is the place where I organize my list of things TO-DO. Journeys are exploratory and focused on a learning and documentation path. Epics are a journey with a final objective in mind. An example of Journey can be a specific technology I  want to explore and document such as System programming and and Epic can be the search and acquisition of an House. Additionally I also keep a TODO list for generic tasks.
 
 ## Journeys
-- [[1_Rust_Journey]]
+- [[2_Rust_Journey]]
 - [[1_Golang_Journey]]
 
 ## Epics
@@ -11,8 +11,6 @@ This is the place where I organize my list of things TO-DO. Journeys are explora
 
 ## Minor Tasks
 
-1. HomeLab
-	1. Create keypass2Android, and add only the relevant apps (maybe finance)
 2. House Flipping
 	1. Fix towel keeper
 	2. Fix shower
@@ -28,4 +26,5 @@ This is the place where I organize my list of things TO-DO. Journeys are explora
 5. Healthcare
 	1. Check how can I schedule clinical exams with the insurance company
 	2. Schedule an internal medicine meeting
-6. Place the new life is strange on steam wishlist
+	3. Sinus Doctor 
+	4. Skin Doctor

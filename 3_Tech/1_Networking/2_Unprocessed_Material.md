@@ -1,4 +1,3 @@
 - RFC8345, RFC8346, RFC8944 and draft-dbwb-opsawg-sap-02 for network topology data
 - RFC8345, RFC8528 logical interfaces data
 - draft-ietf-teas-yang-te for TE LSPs
-- Checkout flexiwan and their gitlab

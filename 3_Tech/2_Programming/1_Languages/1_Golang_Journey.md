@@ -9,6 +9,10 @@
 
 - Awkward Go get Permission denied: https://github.com/golang/go/issues/52942
 
+## Install and build a program
+
+- https://go.dev/doc/tutorial/compile-install
+
 ## References
 
 - [Effective Go](https://go.dev/doc/effective_go)
@@ -21,3 +25,5 @@
 	- https://go.dev/blog/when-generics
 - Range over functions (new in go 1.23)
 	- https://go.dev/blog/range-functions
+- Embed files:
+	- https://pkg.go.dev/embed

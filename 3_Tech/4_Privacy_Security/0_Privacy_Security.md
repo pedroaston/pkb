@@ -1,4 +1,15 @@
 
+## Topic Summary
+
+TODO
+
+## Leaf Linking
+
+[[1_Phone]]
+[[2_Linux_Desktop]]
+[[3_Internet]]
+[[4_Others]]
+
 ## To Read Articles
 
 - Article mentioning the mobile OSs telemetry data ( [2](https://archive.org/details/android-privacy-report))
@@ -10,6 +21,11 @@
 	- Page: [[1_Phone]]
 - Mobile Apps:
 	- Description: Apps to be used in mobile
-- Linux Destop:
-	- Description: death to windowns
+- Linux Desktop:
+	- Description: death to windows
 	- Page: [[2_Linux_Desktop]]
+
+## Tasks
+
+1. Check firefox sync feature
+2. Explore self-hosted search engines
