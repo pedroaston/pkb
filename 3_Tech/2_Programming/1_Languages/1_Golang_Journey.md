@@ -4,6 +4,7 @@
 1. Create the go-bible
 2. Push the webserver code developed to expose web-apps in NOS to there
 3. Create a personal website that allows PT people to understand the constitution and all legal code
+4. govulncheck for analyzing vulnerabilities inside golang code
 
 ## Details
 

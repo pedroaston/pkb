@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_NOS/1_New_IP_Eng_Ways.md",
+                "file": "3_Tech/2_Programming/2_Git/1_Command_Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4_NOS/1_New_IP_Eng_Ways.md",
+            "file": "3_Tech/2_Programming/2_Git/1_Command_Sequences.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4_NOS/1_New_IP_Eng_Ways.md",
+            "file": "3_Tech/2_Programming/2_Git/1_Command_Sequences.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4_NOS/1_New_IP_Eng_Ways.md"
+            "file": "3_Tech/2_Programming/2_Git/1_Command_Sequences.md"
           }
         }
       }
@@ -141,32 +141,32 @@
   },
   "active": "e19381bd9fa37a2f",
   "lastOpenFiles": [
+    "1_Generic_Notes/Pilhas.md",
     "0_Personal_Task_Manager.md",
+    "3_Tech/0_Tech.md",
+    "3_Tech/4_Privacy_Security/4_Others.md",
+    "Shoplist.md",
+    "4_NOS/1_New_IP_Eng_Ways.md",
+    "4_NOS/0_NOS_Task_Manager.md",
     "3_Tech/4_Personal_Privacy_Security/2_Linux_Desktop.md",
     "3_Tech/4_Personal_Privacy_Security/3_Internet.md",
     "3_Tech/1_Raw_Notes.md",
     "3_Tech/4_Personal_Privacy_Security/0_Privacy_Journey.md",
     "3_Tech/4_Personal_Privacy_Security/1_Phone.md",
     "3_Tech/1_Networking/1_Standard_Bodies.md",
-    "4_NOS/1_New_IP_Eng_Ways.md",
     "3_Tech/1_Networking/0_Unprocessed_Material.md",
     "2_Citizen_Affairs/3_Personal_Finances.md",
     "3_Tech/3_Utilities/1_Docs_As_Code.md",
     "3_Tech/2_Programming/3_Git/1_Command_Sequences.md",
     "2_Citizen_Affairs/1_House Acquisition.md",
-    "4_NOS/0_NOS_Task_Manager.md",
     "FRINX_NOTES.md",
     "Pasted image 20240710155120.png",
     "3_Tech/2_Programming/1_System_Coding/1_Rust_Journey.md",
     "3_FRINX_Tech_Meeting_Draft.md",
     "4_NOS/1_New_IP_Eng_Way_of_Work.md",
-    "1_Generic_Notes/Pilhas.md",
     "1_Generic_Notes/Cadeira.md",
     "4_NOS/0_Raw_Notes/1_IP_Controller_RFQ_Notes.md",
     "4_NOS/0_Raw_Notes/2_Clab_RAW_Notes.md",
-    "1_Generic_Notes/Sick.md",
-    "3_Tech/1_IETF/1_Programmability.md",
-    "Task_Manager.md",
-    "4_NOS/1_IP_Controller_RFQ_Notes.md"
+    "1_Generic_Notes/Sick.md"
   ]
 }

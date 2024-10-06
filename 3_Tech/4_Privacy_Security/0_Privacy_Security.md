@@ -27,5 +27,6 @@ TODO
 
 ## Tasks
 
-1. Check firefox sync feature
-2. Explore self-hosted search engines
+1. Firefox user profiles
+2. Check firefox sync feature
+3. Explore self-hosted search engines

@@ -13,7 +13,16 @@
 
 I should compare both commission models, but IB is by far the most reliable one, and made for scale (millionaires) as I understood.
 
+## Crypto Brokers
+
+- Coinbase
+- Kraken
+
+
+## Crypto Wallet
+
+- Trezor
 # Journey
 
-1. Analyze 1st Half 2024 Budget, and compile an excel with a summary like the one done for 2023
+1. Make the Q3 personal financial analysis in october
 2. Create an account in aforro net (stand-by for website to recovery)

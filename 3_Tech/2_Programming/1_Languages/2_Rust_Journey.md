@@ -9,7 +9,7 @@
 ## Journey Tasks
 
 - Continue reading and testing the rust official tutorial.
-	- Section 3.2 (https://doc.rust-lang.org/book/ch03-02-data-types.html#floating-point-types)
+	- Section 3.2 (https://doc.rust-lang.org/book/ch03-02-data-types.html#the-character-type)
 
 
 ## Raw Notes

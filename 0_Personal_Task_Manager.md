@@ -11,20 +11,14 @@ This is the place where I organize my list of things TO-DO. Journeys are explora
 
 ## Minor Tasks
 
-2. House Flipping
+1. House Flipping
 	1. Fix towel keeper
 	2. Fix shower
 	3. Remove trash and clean the garage
 	4. Remove trash and clean the grandmother house
 	5. Remove trash and clean the shop
-3. Sale of expendables
+2. Sale of expendables
 	1. Keep checking my own adds
-4. Surfing 
+3. Surfing 
 	1. Clean the surfboard bags
-	2. Request a new surfboard
-	3. After having the new board, recycle the boards
-5. Healthcare
-	1. Check how can I schedule clinical exams with the insurance company
-	2. Schedule an internal medicine meeting
-	3. Sinus Doctor 
-	4. Skin Doctor
+4. Healthcare **(STAND-BY)**

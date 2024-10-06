@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_Personal_Task_Manager.md",
+                "file": "2_Citizen_Affairs/3_Personal_Finances.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66d4facfd32da9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Tech/4_Privacy_Security/4_Others.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Personal_Task_Manager.md",
+                "file": "3_Tech/4_Privacy_Security/4_Others.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_Personal_Task_Manager.md",
+                "file": "3_Tech/4_Privacy_Security/4_Others.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Personal_Task_Manager.md"
+                "file": "3_Tech/4_Privacy_Security/4_Others.md"
               }
             }
           }
@@ -146,35 +159,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "336a3da2f1143c1c",
+  "active": "66d4facfd32da9f5",
   "lastOpenFiles": [
+    "3_Tech/4_Privacy_Security/3_Internet.md",
+    "3_Tech/4_Privacy_Security/2_Linux_Desktop.md",
+    "3_Tech/3_Tech_Utilities/0_Tech_Utilities.md",
+    "3_Tech/3_Tech_Utilities/3_Time_Sync.md",
+    "2_Citizen_Affairs/3_Personal_Finances.md",
+    "2_Citizen_Affairs/1_House Acquisition.md",
     "4_NOS/0_NOS_Task_Manager.md",
-    "Untitled.md",
-    "4_NOS/1_New_IP_Eng_Ways.md",
+    "4_NOS/2_Historic_Analitics.md",
     "0_Personal_Task_Manager.md",
     "3_Tech/0_Tech.md",
+    "3_Tech/5_Home_Services/1_NAS.md",
+    "3_Tech/1_Raw_Notes.md",
+    "Pasted image 20240926163332 1.png",
+    "Pasted image 20240926163332.png",
+    "1_Generic_Notes/Pilhas.md",
+    "4_NOS/2_Deving.md",
+    "3_Tech/5_Home_Services/2_Personal_Cloud.md",
+    "3_Tech/5_Home_Services/0_Home_Services.md",
     "3_Tech/4_Privacy_Security/0_Privacy_Security.md",
-    "3_Tech/3_Tech_Utilities/0_Tech_Utilities.md",
+    "3_Tech/4_Privacy_Security/1_Phone.md",
+    "3_Tech/5_Home_Services",
+    "4_NOS/1_New_IP_Eng_Ways.md",
+    "Pasted image 20240916101354.png",
+    "Pasted image 20240916101434.png",
+    "3_Tech/2_Programming/1_Languages/1_Golang_Journey.md",
+    "3_Tech/2_Programming/1_Languages/2_Rust_Journey.md",
     "3_Tech/2_Programming/0_Programmming.md",
     "3_Tech/2_Programming/2_Git/0_Git.md",
     "3_Tech/2_Programming/1_Languages/0_Languages.md",
-    "3_Tech/2_Programming/1_Languages/1_Golang_Journey.md",
-    "3_Tech/2_Programming/1_Languages/2_Rust_Journey.md",
     "3_Tech/1_Networking/0_Networking.md",
     "3_Tech/1_Networking/4_SD_WAN/0_SD_WAN.md",
-    "3_Tech/1_Networking/2_BGP/0_BGP.md",
-    "3_Tech/1_Networking/3_IS_IS/0_IS_IS.md",
-    "3_Tech/1_Networking/1_Programmability/0_Programability.md",
-    "2_Citizen_Affairs/0_Citizen_Affairs.md",
-    "2_Citizen_Affairs/1_Career/0_Career.md",
-    "3_Tech/1_Networking/4_SD_WAN/1_Providers.md",
-    "Untitled",
-    "3_Tech/1_Networking/2_Unprocessed_Material.md",
-    "3_Tech/1_Networking/1_Standard_Bodies.md",
-    "2_Citizen_Affairs/1_House Acquisition.md",
-    "2_Citizen_Affairs/1_Career/1_Interesting_Companies.md",
-    "2_Citizen_Affairs/2_Sale_of_inhereted_terrains.md",
-    "4_NOS/0_Raw_Notes/2_Clab_RAW_Notes.md",
     "3_Browser",
     "3_Tech/1_Networking/4_SD_WAN",
     "3_Tech/2_Programming/2_App_Coding/~syncthing~1_Golang_Journey.md.tmp",

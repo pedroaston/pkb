@@ -5,19 +5,19 @@ Build incrementally an ecosystem capable of testing a digital twin of our networ
 ## Sub-Projects
 
 1. [ippal-mdm](https://github.com/nosportugal/ippal-mdm)
-	- Goal: implement a mediation layer capable of abstracting the multivendor particularities of the different router vendor implementations
-	- Ideas for features:
-		- Explore integration with ArangoDB
-		- Explore integration with Netbox
+	- Goal: implement a yang-based mediation layer capable of abstracting the multivendor particularities of the different router vendor implementations and enable network programmability.
 	- Issues:
 		- unified model keychain on 7.11.2
 		- ygot has a limitation regarding repeated namespaces ([issue](https://github.com/openconfig/ygot/issues/834))
 	- Tasks:
-		1. Switch from list to map in json normalized (maybe after full isis state stuff)
-		2. Understand how to divide state and config
-		3. Add topology validation to IGPSegment validation (sh isis topology)
-		4. After provisoning_infra action add a wait for igp/mpls sync finished
-		5. We can have unify to marshall struct into json and yaml by having both annotations. Check [here](https://stackoverflow.com/questions/19885162/xml-and-json-tags-for-a-golang-struct) for proper form.
+		1. Generate Nokia SROS adaptors
+		2. Setup Nokia Mediator
+	- Backlog:
+		- Switch from list to map in json normalized (e.g adjacencies)
+		- Understand how to divide state and config
+		- Add topology validation to IGPSegment validation (sh isis topology)
+		- Explore integration with ArangoDB
+		- Explore integration with Netbox
 - [ippal-infra-templates](https://github.com/nosportugal/ippal-infra-templates)
 	- Goal: push our documentation to git, in order to have collaborative edition and versioning.
 	- Issues:
@@ -33,8 +33,10 @@ Build incrementally an ecosystem capable of testing a digital twin of our networ
 		- Currently xrd (control) does not support lacp. It can be configured but it does not work operationally
 		- xrd startup config seems to be troubling. I think it erases the base configuration (e.g. ssh)
 	- Tasks:
-		1. Make clab deletecfg action for reusability of a VM-based scenario
-		3. Integrate SONIC vm and container router in clab
+		1. Create a sros only clab blank scenario
+		2. Make clab deletecfg action for reusability of a VM-based scenario
+		3. Integrate SROS in the vm scenario
+		4. Integrate SONIC vm and container router in clab
 - Related Work
 	- OpenConfig:
 		- yang rpcs in gNMI

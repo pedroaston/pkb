@@ -1,19 +1,26 @@
 ## Candidate Search:
 
-1. https://www.idealista.pt/imovel/33497329/ 249k
+Olivais:
+1. https://www.imovirtual.com/pt/anuncio/apartamento-t3-nos-olivais-sul-ID1fvo0 275k
+2. https://www.idealista.pt/imovel/33311827/ 295k
 3. https://www.idealista.pt/imovel/33646897/ 290k
-4. https://www.idealista.pt/imovel/32848926/ 285k
-5. https://www.idealista.pt/imovel/33585377/ 239k
-6. https://www.idealista.pt/imovel/32819028/ 225k
-7. https://www.idealista.pt/imovel/33448034/ 245k
-8. https://www.idealista.pt/imovel/33555571/ 230k
-9. https://www.idealista.pt/imovel/33619594/ 250k
-10. https://www.idealista.pt/imovel/33311827/ 295k
-2. https://www.idealista.pt/imovel/33202929/ 270k
+4. https://www.idealista.pt/imovel/32444611/ 285k
+5. https://www.idealista.pt/imovel/32848926/ 285k
+6. https://www.idealista.pt/imovel/33564012/ 215k
+7. https://www.idealista.pt/imovel/32819028/ 225k
+8. https://www.idealista.pt/imovel/33448034/ 245k
+9. https://www.idealista.pt/imovel/33555571/ 230k
+10. https://www.idealista.pt/imovel/33202929/ 270k
+11. https://www.idealista.pt/imovel/33558507/ 215k
 
 Bela Vista:
 1. https://www.idealista.pt/imovel/33645362/ 279k
 2. https://www.idealista.pt/imovel/33575339/ 270k
+
+Vendidas enquanto procurava:
+- https://www.idealista.pt/imovel/33497329/ Olivais/Encarnação; 249k; 1ª opção
+- https://www.idealista.pt/imovel/33585377/ Olivais/Encarnação; 239k; 4ª opção
+- https://www.idealista.pt/imovel/33619594/ Olivais/Encarnação; 250k; 7ª opção
 ## Taxes
 
 ### Upon House purchase
@@ -23,10 +30,9 @@ Bela Vista:
 
 ## Mortgage Budget for 315k house
 
-- Buy in January:
-	- Entrance Options: 15k + 20k + 50k
-	- Net Salary: 1970 €
-	- Monthly mortgage bill: 1040 €
+(This aggregates 14 base salaries, bonus and lunch subsidies)
+(end - 2023) Net Monthly salary 1938 € 
+(April - 2024) Net Monthly salary 2150 €
 
 ## Costs of Buying an house
 
@@ -44,7 +50,7 @@ Bela Vista:
 ## Brokers for House Credit
 
 - [Doutor Finanças](https://www.doutorfinancas.pt/melhor-proposta-credito-habitacao/?src=org.art.general)
-- Need more ...
+- [ComparaJá](https://www.comparaja.pt/credito-habitacao/comprar-casa)
 
 ## Required Documents for House Credit
 
